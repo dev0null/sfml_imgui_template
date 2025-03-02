@@ -1,9 +1,16 @@
 # SFML + ImGui Template
 This is a template project that combines SFML (Simple and Fast Multimedia Layer) + ImGui (Immediate Mode Gui) to get started with C++ graphics/game development.
 
-# How it was made
-How to do it from scratch
+- **SFML Version**: 2.6
+- **ImGui Version**: 1.89
 
+# Installation
+- Download project:
+  ```shell
+  git clone https://github.com/dev0null/sfml_imgui_template
+  ```
+  
+# How to do it from scratch
 ## 1. Install SFML
 **Debian**: 
 ```
